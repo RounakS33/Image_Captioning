@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+Pillow
+matplotlib
+transformers
+timm
+numpy
+pandas
+tqdm
