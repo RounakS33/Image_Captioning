@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 #### Clone the repository:
 ```
 git clone https://github.com/RounakS33/Image_Captioning.git
-cd image_captioning_system
+cd Image_Captioning
 ```
 
 #### Install the required dependencies:
