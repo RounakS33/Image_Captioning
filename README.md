@@ -18,15 +18,21 @@ The Image Captioning System automatically generates descriptive captions for ima
 ## Installation:
 Follow these steps to set up the project locally:
 #### Clone the repository:
+```
 git clone https://github.com/RounakS33/Image_Captioning.git
 cd image_captioning_system
+```
 
 #### Install the required dependencies:
+```
 pip install -r requirements.txt
+```
 
 ## Usage:
 #### Run the Streamlit app:
+```
 streamlit run app.py
+```
 
 ## Technologies Used:
 Deep Learning, PyTorch, Hugging Face Transformers, Natural Language Processing (NLP), Computer Vision, Python, Streamlit
